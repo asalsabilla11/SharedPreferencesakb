@@ -11,9 +11,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 /*
 
-Author  : Rizki Adam Kurniawan
-email : rizkiadamunikom@gmail.com
-ig : @rizkiadamkurniawan
+Nama : Annisa Salsabilla
+Nim : 10117196
+Kelaas : IF5
 
  */
 
